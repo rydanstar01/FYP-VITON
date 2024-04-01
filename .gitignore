@@ -1,0 +1,10 @@
+.idea/
+results/
+runs/
+sample/
+checkpoints/
+*__pycache__
+venv/
+lip_final.pth
+pose/pose_iter_440000.caffemodel
+U-2-Net/saved_models/u2net/u2net.pth
